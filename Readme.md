@@ -1,1 +1,1 @@
-To check each task, you need to uncomment the code of the desired task (ctrl + / in the highlighted area), comment out the already checked task and compile the file and run.
+To check each task, you need to uncomment the code of the desired task ([ctrl + /] in the highlighted area), comment out the already checked task and compile the file and run.
